@@ -28,6 +28,12 @@ After making sure that all of the mechanical aspects were perfected, we gave lif
   <img src="photos/setup.jpeg" width="350" title="hover text">
 </p>
 
+## Course video  🏎
+
+You can see our car racing [here](https://www.youtube.com/watch?v=PBthNTN-ukI) . 
+
+PS: in the video above our car was still shaking with emotion as it was recorder right after our actual presentation where our best time was 18.6 (when we were too excited to remeber we had to record it) .
+
 ## Free Fall Team 🤜🤛
 
 I teamed up with [Cosmina Barbu](https://github.com/cosminabarbu) and [Radu Nedelcu](https://github.com/Pepi100).
