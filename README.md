@@ -1,8 +1,8 @@
-# Line Follower
+# Line Follower 🏁
 
 This is our last project for the Introduction to Robotics course at the University of Bucharest, where we're diving into making a line follower. It's a hands-on challenge where the requirement is to design a robot to follow a marked path accurately and in the shortest possible time. To achieve this, we used PID, a control loop mechanism employing feedback.
 
-## Components
+## Components 🔧
 
 <ul>
   <li> Arduino Uno
@@ -16,7 +16,7 @@ This is our last project for the Introduction to Robotics course at the Universi
   <li> DC motors (2)
 </ul>  
 
-## Project design
+## Project design ✨
 
 Our first (small) challenge for this project was making the chassis from a simple piece of foam board. Spoiler alert: we ended up nailing it.
 
@@ -28,7 +28,13 @@ After making sure that all of the mechanical aspects were perfected, we gave lif
   <img src="photos/setup.jpeg" width="350" title="hover text">
 </p>
 
-## Free Fall Team
+## Course video  🏎
+
+You can see our car racing [here](https://www.youtube.com/watch?v=PBthNTN-ukI) . 
+
+PS: in the video above our car was still shaking with emotion as it was recorder right after our actual presentation where our best time was 18.6 (when we were too excited to remeber we had to record it) .
+
+## Free Fall Team 🤜🤛
 
 I teamed up with [Cosmina Barbu](https://github.com/cosminabarbu) and [Radu Nedelcu](https://github.com/Pepi100).
 
