@@ -4,12 +4,14 @@ This is our last project for the Introduction to Robotics course at the Universi
 
 ## Components
 
-1 x Arduino Uno
-1 x LiPo battery as a power source
-1 x L293D motor driver
-1 x QTR-8A reflectance sensor
-1 x Chassis (made of foam board)
-2 x DC motors
-1 x Ball caster
-2 x Wheels
-1 x Breadboard
+<ul>
+  <li> Arduino Uno
+  <li> LiPo battery as a power source
+  <li> Wheels (2)
+  <li> QTR-8A reflectance sensor
+  <li> Ball caster
+  <li> Chassis (made of foam board)
+  <li> Breadboard
+  <li> L293D motor driver
+  <li> DC motors (2)
+</ul>  
