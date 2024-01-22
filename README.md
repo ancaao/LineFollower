@@ -31,3 +31,7 @@ After making sure that all of the mechanical aspects were perfected, we gave lif
 ## Free Fall Team
 
 I teamed up with [Cosmina Barbu](https://github.com/cosminabarbu) and [Radu Nedelcu](https://github.com/Pepi100).
+
+<p align="center">
+  <img src="photos/dreamteam.jpeg" width="350" title="Dream team">
+</p>
