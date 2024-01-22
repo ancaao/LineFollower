@@ -24,6 +24,10 @@ We started by mounting the ball caster and the QTR sensor with their screws in t
 
 After making sure that all of the mechanical aspects were perfected, we gave life to our car by adding small details that would make it stand out.
 
+<p align="center">
+  <img src="photos/setup.jpeg" width="350" title="hover text">
+</p>
+
 ## Free Fall Team
 
 I teamed up with [Cosmina Barbu](https://github.com/cosminabarbu) and [Radu Nedelcu](https://github.com/Pepi100).
