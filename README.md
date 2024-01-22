@@ -15,3 +15,7 @@ This is our last project for the Introduction to Robotics course at the Universi
   <li> L293D motor driver
   <li> DC motors (2)
 </ul>  
+
+## Free Fall Team
+
+I teamed up with [Cosmina Barbu](https://github.com/cosminabarbu) and [Radu Nedelcu](https://github.com/Pepi100).
